@@ -1,1 +1,1 @@
-# Add here 
+# kth smallest element in a array.
